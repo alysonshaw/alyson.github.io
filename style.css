@@ -1,0 +1,129 @@
+/* Meu primeiro site CSS */
+
+p{
+color: black;
+font-size: 60px;
+text-align: center;
+font-family: Bradley Hand ITC;
+margin: 50px;
+padding: 30px;
+
+
+}
+
+body{
+	background-color:#000000
+}
+
+*{
+	margin: 0;
+	padding:0;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+}
+
+header{
+	background-color:#F5DEB3;
+	height: 80px;
+	padding: 30px;
+}
+
+
+footer{
+	clear: both;
+	background-color: #F5DEB3;
+	height: 50px; 
+	text-align: center;
+	font-family: Arial
+	padding: 10px;
+	text-shadow: 1px 1px 3px #FFFFFF;
+}
+
+h1{
+	font-family: Bradley Hand ITC;
+	font-size: 60px;
+	color: black;
+	text-align: center;
+	margin: 0px 100px 50px 100px;
+
+
+}
+
+/*class*/
+#principal{
+	background-color: black;
+	clear: both;
+	background-image: url("madeira.png");
+	background-size: 2000px;
+	min-height: 800px; 
+	padding:300px 0 0 0;
+	
+}
+
+#logo{
+	float: left;
+}
+
+#menu{
+	float: right;
+	margin:0px;
+	padding: 0px;
+}
+
+#menu ul{
+
+	margin: 0px
+	padding: 0px;
+
+
+	
+}
+#menu ul li{
+   color: black;
+   font-size: 13px;
+}
+
+#menu ul li a{
+
+font-family: Helvetica;
+font size: 15px;
+color: #800000;
+}
+
+}
+.container{
+	width:2000px;
+	margin: center;
+}
+
+figure{ text-align: center;
+
+}
+
+p{ text-align:center; 
+color: white;
+font-size: 30px;
+}
+
+
+h2{
+	background-color: 000080;
+	text-align: center;
+	color: white;
+	margin: 60px;
+	text-orientation: 100px
+}
+
+h3{
+	font-family:  Bradley Hand ITC;
+	font-size: 30px;
+	padding: 5px;
+}
+
+h4{
+	font-family:  Bradley Hand ITC;
+	font-size: 35px;
+}
+.efeito{
+	background-color: rgba(0, 0, 0, 0,5);
+
+
